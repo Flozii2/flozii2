@@ -19,12 +19,11 @@
 <details>
   <summary>👀 My GitHub Stats</summary>
 
-<a href="https://github.com/Flozii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flozii&show_icons=true&layout=compact&hide_border=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Flozii's GitHub Stats" />
+<a href="https://github.com/Flozii2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flozii2&show_icons=true&layout=compact&hide_border=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Flozii's GitHub Stats" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii2)
    
-  <a href="https://github.com/Flozii" target="blank"><img align="center" src=https://wakatime.com/share/@flozii/5d59e2a3-78c9-4543-b61d-2fe2caa5fc0b.svg width="600" /></a>
 </a>
 
 </details>
