@@ -39,7 +39,3 @@
 <a href="https://git-scm.com" target="blank"><img align="center" src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png alt="Git"  width="26" /></a>
 <a href="https://nodejs.org" target="blank"><img align="center" src=https://www.developpez.com/public/images/news/node-js10.png alt="Node.js"  width="26" /></a>
 <a href="https://www.mysql.com" target="blank"><img align="center" src=https://kinsta.com/fr/wp-content/uploads/sites/4/2019/04/logo-mysql-1.svg alt="MySQL"  width="26" /></a>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=Lrj2Hq7xqQ8" target="blank"><img src="https://cdn.discordapp.com/attachments/836192469359394856/846485171656982578/github_banner.png" height="200" width="1000">
-</p>
