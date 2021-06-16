@@ -22,7 +22,7 @@
 <a href="https://github.com/Flozii2">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flozii2&show_icons=true&layout=compact&hide_border=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Flozii's GitHub Stats" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii2)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii2&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii2)
    
 </a>
 
