@@ -7,7 +7,7 @@
 
 ---
 
-- 🔨 I'm currently working on a FiveM PVP server, and contributing to a lot of projects.
+- 🔨 I'm currently contributing to a lot of projects.
 - 💽 Developed and owned [InitialV](https://github.com/Naamelesss/InitialV), AlphaV, [SunWise](https://github.com/SunWise-Network)
 
 - 💻 Im learning frontend developement
