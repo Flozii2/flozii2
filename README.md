@@ -12,8 +12,6 @@
 
 - 💻 Im learning frontend developement
 
-[Flozii](https://github.com/Flozii) is suspended
-
 ---
 
 <br/>
@@ -26,6 +24,8 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flozii2&layout=compact&hide_border=true&theme=gruvbox)](https://github.com/Flozii2)
    
+
+[Flozii](https://github.com/Flozii) is suspended
 </a>
 
 </details>
