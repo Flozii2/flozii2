@@ -12,6 +12,8 @@
 
 - 💻 Im learning frontend developement
 
+[Flozii](https://github.com/Flozii) is suspended
+
 ---
 
 <br/>
